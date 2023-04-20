@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 export default function () {
 
     const currentYear = new Date().getFullYear();
-    const gitHubUrl = "https://github.com/megstamp/profile-app"
+    const gitHubUrl = "https://github.com/megstamp/about-me"
 
     return (
         <footer>
