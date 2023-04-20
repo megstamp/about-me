@@ -11,13 +11,14 @@ h2 {
 }
 
 .container {
-  padding: 20px
+  padding: 40px
 }
+
 
 .quote-container {
   background-color: rgb(221, 140, 149);
   border-color: rgb(217, 122, 133);
-  padding: 8px;
+  padding: 28px;
 }
 
 .rounded-circle {
@@ -44,6 +45,14 @@ h2 {
   margin-bottom: 2px;
 }
 
+.button {
+  background-color: rgb(217, 122, 133);
+  border-color: rgb(217, 122, 133);
+}
+.button:hover {
+  background-color: rgb(209, 99, 112);
+  border-color: rgb(209, 99, 112);
+}
 /* .quote-container q {
   font-size: 105%;
 } */
